@@ -1,0 +1,9 @@
+---
+title: "Projects"
+params:
+  output_dir: "_projects"
+output: 
+  html_document
+---
+
+Placeholder

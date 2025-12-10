@@ -1,0 +1,17 @@
+#name: "."
+title: "Ecological PSychiatry Lab"
+author:
+  - name: "Thomaz F. S. Bastiaanssen"
+url: "https://ecopsychlab.github.io/"
+output_dir: "."
+theme: theme.css
+navbar:
+  right:
+  - text: "Home"
+href: "index.html"
+- text: "Lab members"
+href: "labmembers.html"
+- text: "Projects"
+href: "projects.html"
+repository_url: "https://ecopsychlab.github.io/"
+output: distill::distill_article

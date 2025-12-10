@@ -1,0 +1,12 @@
+---
+title: "Ecological Psychiatry Lab"
+image: "temporal_textless.png"
+about:
+  template: trestles
+  links:
+  - text: GitHub
+    href: "https://github.com/ecopsychlab"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
