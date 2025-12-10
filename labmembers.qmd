@@ -1,7 +1,5 @@
 ---
 title: "Lab Members"
-params:
-  output_dir: "_labmembers"
 output: 
   html_document
 ---
