@@ -4,8 +4,12 @@ image: "temporal_textless.png"
 about:
   template: trestles
   links:
+  - text: Lab Members
+    href: "https://ecopsychlab.github.io/labmembers.html"
   - text: GitHub
     href: "https://github.com/ecopsychlab"
+  - text: Projects
+    href: "https://ecopsychlab.github.io/projects.html"
 output:
   postcards::trestles
 site: distill::distill_website
